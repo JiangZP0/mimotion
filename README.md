@@ -1,8 +1,4 @@
-# Mimotion
-# 请不要点自己项目的 Create pull request 不要提起无意义的pr，否则你将会被我拉黑！
-# 请不要点自己项目的 Create pull request 不要提起无意义的pr，否则你将会被我拉黑！
-# 请不要点自己项目的 Create pull request 不要提起无意义的pr，否则你将会被我拉黑！
-# 小米运动自动刷步数
+*来自大佬的克隆
 
 > 小米运动自动刷步数
 
